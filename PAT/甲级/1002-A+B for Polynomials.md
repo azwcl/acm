@@ -3,16 +3,7 @@ This time, you are supposed to find A+B where A and B are two polynomials.
 
 ## 输入格式:
 Each input file contains one test case. Each case occupies 2 lines, and each line contains the information of a polynomial:
-
-K N<sub>1</sub> a<sub>N1</sub> N<sub>2</sub> a<sub>N2</sub> ...  N<sub>K</sub> a<sub>NK</sub>
-
-​
- 
-​
- 
-
-where K is the number of nonzero terms in the polynomial, N<sub>i</sub> and a 
-<sub>Ni</sub> (i=1,2,⋯,K) are the exponents and coefficients, respectively. It is given that 1≤K≤10，0≤N<sub>K</sub> \< ... \< N<sub>2</sub> \< N<sub>1</sub> ≤1000.
+K N<sub>1</sub> a<sub>N1</sub> N<sub>2</sub> a<sub>N2</sub> ...  N<sub>K</sub> a<sub>NK</sub> where K is the number of nonzero terms in the polynomial, N<sub>i</sub> and a<sub>Ni</sub> (i=1,2,⋯,K) are the exponents and coefficients, respectively. It is given that 1≤K≤10，0≤N<sub>K</sub> \< ... \< N<sub>2</sub> \< N<sub>1</sub> ≤1000.
 
 ## 输出格式:
 For each test case you should output the sum of A and B in one line, with the same format as the input. Notice that there must be NO extra space at the end of each line. Please be accurate to 1 decimal place.  
